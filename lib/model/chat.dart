@@ -55,7 +55,7 @@ List<ChatModel> chats = [
       time: "15:10",
       avatar: "assets/person.svg"),
   ChatModel(
-      name: "Iris West",
+      name: "Wally West",
       isGroup: false,
       message: "I know I'm useless. Please don't hate me ;(",
       time: "9:10",
